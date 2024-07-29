@@ -22,7 +22,7 @@ This project is a Flask application that streams the live screen feed of your co
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/gs6529707/Screen_share.git
-    cd your-repo-name
+    cd Screen_share
     ```
 
 2. **Install Dependencies**:
