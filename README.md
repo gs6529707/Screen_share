@@ -21,7 +21,7 @@ This project is a Flask application that streams the live screen feed of your co
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/gs6529707/Screen_share.git
     cd your-repo-name
     ```
 
@@ -32,7 +32,7 @@ This project is a Flask application that streams the live screen feed of your co
 
 3. **Run the Application**:
     ```bash
-    python app.py
+    python screen_share.py
     ```
 
 ## Usage
