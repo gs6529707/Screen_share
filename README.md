@@ -38,7 +38,7 @@ This project is a Flask application that streams the live screen feed of your co
 ## Usage
 
 1. **Access the Application**:
-   Open your web browser and go to `http://localhost:8000` to view the live screen feed.
+   Open your browser and go to `http://localhost:8000` to view the live screen feed.
 
 2. **Control the Screen**:
    - **Mouse Click**: Click anywhere on the screen feed to send a mouse click to that position on your computer.
